@@ -8,8 +8,8 @@ public class B {
     }
 
     // Setter
-    public void setName(String newName) {
-        name = newName;
+    public void setName(String newName1) {
+        name = newName1;
     }
 
 
